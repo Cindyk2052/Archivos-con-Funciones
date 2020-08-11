@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597118570 source:c:\users\fernando\onedrive - escuela politécnica nacional\cindy yazÁn\tec_software\primer semestre\algoritmos\piramide y archivos\main.cpp
+	<iostream>
+	<fstream>
+
