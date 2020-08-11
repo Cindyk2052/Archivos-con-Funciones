@@ -1,1 +1,1 @@
-# Uso de archivos admás se ha implementado fucniones en C++
+# Uso de archivos además se ha implementado fucniones en C++
